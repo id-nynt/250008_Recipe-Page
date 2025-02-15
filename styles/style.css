@@ -106,6 +106,10 @@ figure img {
 
 /* Media queries for mobile */
 @media screen and (max-width:768px) {
+    h1 {
+        font-size: 3.5rem;
+        margin: 20px 0;
+    }
     .page {
         width: 100vw;
         background-color: white;
